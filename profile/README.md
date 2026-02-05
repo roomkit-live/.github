@@ -1,6 +1,10 @@
-# RoomKit
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roomkit-live/.github/main/profile/logo.svg" width="80" alt="RoomKit logo">
+</p>
 
-Pure async Python library for multi-channel conversations.
+<h1 align="center">RoomKit</h1>
+
+<p align="center">Pure async Python library for multi-channel conversations.</p>
 
 One abstraction — the **room** — to orchestrate messages across SMS, RCS, Email, WhatsApp, Messenger, Voice, WebSocket, HTTP webhooks, and AI channels.
 
