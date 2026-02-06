@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roomkit-live/.github/main/profile/logo.svg" width="80" alt="RoomKit logo">
-</p>
-
-<h1 align="center">RoomKit</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/roomkit-live/.github/main/profile/logo.svg" width="36" alt="RoomKit logo" style="vertical-align: middle;">
+  RoomKit
+</h1>
 
 <p align="center">Pure async Python library for multi-channel conversations.</p>
 
