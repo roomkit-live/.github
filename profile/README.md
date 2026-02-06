@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/roomkit-live/.github/main/profile/logo.svg" width="36" alt="RoomKit logo" style="vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/roomkit-live/.github/main/profile/logo.png" width="36" alt="RoomKit logo" style="vertical-align: middle;">
   RoomKit
 </h1>
 
