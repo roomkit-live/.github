@@ -19,6 +19,7 @@ Inbound ──► Hook pipeline ──► Store ──► Broadcast to all chann
 | [**roomkit**](https://github.com/roomkit-live/roomkit) | Python library — `pip install roomkit` |
 | [**roomkit-docs**](https://github.com/roomkit-live/roomkit-docs) | Technical documentation (MkDocs) |
 | [**roomkit-website**](https://github.com/roomkit-live/roomkit-website) | Landing page — [roomkit.live](https://www.roomkit.live) |
+| [**roomkit-ui**](https://github.com/roomkit-live/roomkit-ui) | Desktop voice assistant (PySide6) |
 | [**roomkit-specs**](https://github.com/roomkit-live/roomkit-specs) | Protocol specs and RFCs |
 
 ## Quick Start
