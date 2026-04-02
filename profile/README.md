@@ -22,6 +22,7 @@ Inbound ──► Hook pipeline ──► Store ──► Broadcast to all chann
 | [**roomkit-ui**](https://github.com/roomkit-live/roomkit-ui) | Desktop voice assistant (PySide6) |
 | [**roomkit-specs**](https://github.com/roomkit-live/roomkit-specs) | Protocol specs and RFCs |
 | [**roomkit-skills**](https://github.com/roomkit-live/roomkit-skills) | Agent skills for roomkit |
+| [**roomkit-sandbox**](https://github.com/roomkit-live/roomkit-sandbox) | Container-based sandbox executor — sandboxed command execution via RTK |
 | [**roomkit-graph**](https://github.com/roomkit-live/roomkit-graph) | Workflow graph engine — define multi-step workflows as directed graphs |
 
 ## Quick Start
